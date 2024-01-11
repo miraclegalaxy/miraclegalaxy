@@ -22,7 +22,7 @@ I’m interested in large-scale open-source projects, 3D modeling and global tea
 |--|--|
 | *Core i5 9400F* | *RX 5500 XT 8GB* |
 |**Memory**| **Storage** |
-| *1x8GB DDR4 & 1x4GB DDR4* | 128GB SSD + 512GB HDD |
+| *1x8GB DDR4 & 1x4GB DDR4* | 512 SSD + 512GB HDD |
 
 
 
