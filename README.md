@@ -14,7 +14,6 @@ I’m interested in large-scale open-source projects, 3D modeling and global tea
 
 # 🎈- Projects I'm part of
 - **[Team-BRAPA](https://github.com/Team-BRAPA)**: Member, Developer and STD/IA.
-- **[LUNAI PROJECT](https://lunaiproject.uwu.ai/)** : Recent member.
 - **Crystal Voice Studios**: Founder, Voice Actor (VA), Director.
 - **Suno Studio**: Member, Voice Actor (VA), Director.
 
